@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AtividdFacuJ</string>
+    <string name="NomeBotão">Ir para Segunda Parte</string>
+    <string name="Titulo">ATIVIDADE</string>
+
+    <string name="Titulo2">INICIAR TAREFAS</string>
+
+    <string name="botaoImc">Calcular IMC</string>
+    <string name="botaoAluno">Calcular Media Alunos</string>
+    <string name="botaoInformacao">Perfil Aluno</string>
+
+</resources>

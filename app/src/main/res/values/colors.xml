@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="novoFundo">#c6c3bd</color>
+    <color name="botaoCor1">#867e7e</color>
+    <color name="fundoCord">#e4e4e4</color>
+
+    <color name="novoFundoInicio">#cbc2ad</color>
+
+    <color name="corBotao2">#8e8076</color>
+</resources>
