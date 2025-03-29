@@ -61,6 +61,7 @@
             android:layout_marginTop="40dp"
             android:backgroundTint="@color/corBotao2"
             android:drawableLeft="@drawable/icons8_anime_40"
+            android:onClick="abrirUsuario"
             android:text="@string/botaoInformacao" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

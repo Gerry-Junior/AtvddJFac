@@ -10,4 +10,9 @@
     <color name="novoFundoInicio">#cbc2ad</color>
 
     <color name="corBotao2">#8e8076</color>
+
+    <color name="preto_fundo">#000000</color>
+    <color name="neon_azul">#00FFFF</color>
+    <color name="neon_rosa">#FF00FF</color>
+    <color name="neon_branco">#FFFFFF</color>
 </resources>
