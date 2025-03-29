@@ -41,6 +41,7 @@
             android:layout_height="wrap_content"
             android:backgroundTint="@color/corBotao2"
             android:drawableLeft="@drawable/icons8_imc_50"
+            android:onClick="abrirImc"
             android:text="@string/botaoImc" />
 
         <Button
@@ -50,6 +51,7 @@
             android:layout_marginTop="40dp"
             android:backgroundTint="@color/corBotao2"
             android:drawableLeft="@drawable/calcularmedia"
+            android:onClick="abrirMediaNota"
             android:text="@string/botaoAluno" />
 
         <Button

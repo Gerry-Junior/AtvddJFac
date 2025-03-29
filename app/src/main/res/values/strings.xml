@@ -9,4 +9,17 @@
     <string name="botaoAluno">Calcular Media Alunos</string>
     <string name="botaoInformacao">Perfil Aluno</string>
 
+    <string name="calcularUsuario">Calcular</string>
+    <string name="voltarInicio">Voltar</string>
+
+    <string name="escolherMateria">Escolha a Materia</string>
+    <string-array name="materias">
+        <item>Calculo Numérico</item>
+        <item>Programação para Dispositivos Móveis</item>
+        <item>Teoria dos Grafos</item>
+        <item>Segurança da Informação</item>
+    </string-array>
+
+
+
 </resources>
