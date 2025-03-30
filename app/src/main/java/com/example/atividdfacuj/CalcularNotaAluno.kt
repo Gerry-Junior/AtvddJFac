@@ -25,8 +25,8 @@ class CalcularNotaAluno : AppCompatActivity() {
     fun calcularMediaAln(view: View){
         val materiaAln:Spinner = findViewById(R.id.escolhaMateria1)
         val notaAln1:TextView = findViewById(R.id.valorNota1)
-        val notaAln2:TextView = findViewById(R.id.valorNota1)
-        val notaAln3:TextView = findViewById(R.id.valorNota1)
+        val notaAln2:TextView = findViewById(R.id.valorNota2)
+        val notaAln3:TextView = findViewById(R.id.valorNota3)
 
         val nota1 = notaAln1.text.toString().toDouble()
         val nota2 = notaAln2.text.toString().toDouble()
