@@ -1,6 +1,7 @@
 package com.example.atividdfacuj
 
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import androidx.activity.enableEdgeToEdge
@@ -22,5 +23,16 @@ class Usuario : AppCompatActivity() {
     fun voltarInicio(view: View) {
         val inicio = Intent(this, IniciarAtividades::class.java)
         startActivity(inicio)
+    }
+
+    fun abrirGit(view: View){
+        val git = Uri.parse("https://github.com/Gerry-Junior")
+        val inicia = Intent(Intent.ACTION_VIEW, git)
+        startActivity(inicia)
+    }
+    fun abrirInsta(view: View){
+        val git = Uri.parse("https://www.instagram.com/gerry.csl/")
+        val inicia = Intent(Intent.ACTION_VIEW, git)
+        startActivity(inicia)
     }
 }
